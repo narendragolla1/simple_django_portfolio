@@ -1,0 +1,8 @@
+{
+    "NAME":"Narendra Golla",
+    "ABOUT_ME":"I'm a python devloper worked with various python projects" ,
+    "LANGUAGES":[
+        "CPP","PYTHON","JAVASCRIPT","SQL"
+    ],
+    "PROJECT":["first project","second project"]
+}
